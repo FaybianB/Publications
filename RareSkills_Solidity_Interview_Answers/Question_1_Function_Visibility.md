@@ -65,3 +65,5 @@ Some considerations when defining a contract’s visibility:
 
 Does the function need to be called by external entities, such as other contracts?
 Does the function need to be called internally, for example, by other functions in the same contract or child contracts?
+
+Medium story: https://medium.com/@fbyrd/rareskills-solidity-interview-question-1-answered-ca821f26d943
