@@ -57,7 +57,7 @@ contract ContractB {
 }
 ```
 
-## Further discussion:
+## Further Discussion:
 
 An important tenet of maintaining a good security posture in Solidity is assigning proper access controls. The function visibility modifiers define a function’s level of exposure and developers should use these appropriately to defend against unauthorized access or contract manipulation.
 
