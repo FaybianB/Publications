@@ -161,3 +161,5 @@ contract EnglishAuction {
 ## Further Discussion:
 
 To avoid a denial-of-service attack in an English auction smart contract, it is best practice to not require that the call to the previous highest bidder succeeds. This is because an attacker could become the highest bidder and cause the refund call to their address to always fail. Such an attack would prevent any new bidder from becoming the highest bidder and essentially lock the auction.
+
+Medium article: https://medium.com/@fbyrd/rareskills-solidity-interview-question-8-answered-what-is-the-difference-between-a-dutch-auction-109d35794e6f
