@@ -2,7 +2,7 @@
 
 This series will provide answers to the list of [Solidity interview questions](https://www.rareskills.io/post/solidity-interview-questions) that were published by [RareSkills.](https://www.rareskills.io/).
 
-![Alt text](media/Question_7.gif)
+![Alt text](media/Question_7.png)
 
 ## *Question #7 (Easy): What are the challenges of creating a random number on the blockchain?*
 
