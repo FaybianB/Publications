@@ -1,4 +1,4 @@
-# RareSkills Solidity Interview Question #5 Answered: What special CALL is required for proxies to work?
+# RareSkills Solidity Interview Question #11 Answered: Why shouldn’t tx.origin be used for authentication?
 
 This series will provide answers to the list of [Solidity interview questions](https://www.rareskills.io/post/solidity-interview-questions) that were published by [RareSkills.](https://www.rareskills.io/).
 
@@ -68,6 +68,7 @@ contract AttackerContract {
 ```
 
 ## Further Discussion:
+
 Due to this vulnerability, it is best practice to use `msg.sender` instead of `tx.origin`, especially for authentication, since `msg.sender` is the address that called the current function and is less susceptible to impersonation or manipulation.
 
 
