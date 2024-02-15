@@ -4,7 +4,7 @@ This series will provide answers to the list of [Solidity interview questions](h
 
 ![Alt text](media/Question_14.png)
 
-## *Question #13 (Easy): How much is 1 wei of Ether?*
+## *Question #14 (Easy): How much is 1 wei of Ether?*
 
 **Answer:** 1 wei is one quintillionth (10^-18) of an Ether.
 
